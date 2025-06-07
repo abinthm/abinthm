@@ -31,7 +31,17 @@ I love building intelligent systems that can understand and process complex visu
 Thanks for dropping by!  
 Let's build something amazing together! 🚀
 
+🌐 Tech Community
+<div align="center">
+<img src="https://i.imgur.com/your-gdg-logo.png" alt="Google Developer Groups - Providence College of Engineering" width="400"/>
+Show Image
+</div>
+I'm passionate about fostering tech communities and knowledge sharing:
 
+👥 Google Developer Groups on Campus Organizer
+Leading developer community initiatives, organizing workshops, hackathons, and tech talks to bridge the gap between students and industry professionals.
+🎤 Community Building: Actively involved in creating inclusive spaces for learning and collaboration in the tech ecosystem.
+📢 Knowledge Sharing: Dedicated to spreading awareness about emerging technologies and best practices in AI/ML and software development.
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
