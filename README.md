@@ -118,48 +118,62 @@ me.say_hi()
 
 <img align='right' width="400" src="https://github-readme-stats.vercel.app/api?username=abinthm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff">
 
-📊 Weekly Development Breakdown
-📈 This week I spent my time on:
+**📈 This week I spent my time on:**
+
 <!--START_SECTION:waka-->
-textPython      8 hrs 45 mins   ████████████░░░░░░░░░░░░░   45.20 % 
-TypeScript  4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-JavaScript  2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Jupyter     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+```text
+Python      8 hrs 45 mins      ████████████░░░░░░░░░░░░░   45.20 % 
+TypeScript  4 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+JavaScript  2 hrs 30 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Jupyter     1 hr 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 YAML        45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 Markdown    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 Docker      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 JSON        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 Other       12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 HTML        8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+```
 <!--END_SECTION:waka-->
-📊 GitHub Analytics
+
+## 📊 GitHub Analytics
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abinthm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinthm&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=ffffff"/>
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abinthm&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak Stats"/>
 </div>
-🎯 Current Focus
 
-🔬 Research: Advanced diagram understanding and processing
-🤖 AI Development: Building intelligent document analysis systems
-📚 Learning: Exploring cutting-edge AI/ML techniques
-🌱 Growing: Expanding expertise in computer vision and NLP
+## 🎯 Current Focus
 
-🤝 Let's Connect!
+- 🔬 **Research**: Advanced diagram understanding and processing
+- 🤖 **AI Development**: Building intelligent document analysis systems
+- 📚 **Learning**: Exploring cutting-edge AI/ML techniques
+- 🌱 **Growing**: Expanding expertise in computer vision and NLP
+
+## 🤝 Let's Connect!
+
 <div align="center">
-Show Image
-Show Image
-Show Image
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abinthm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abinthm)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 </div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
+
 <div align="center">
   <i>⭐️ From <a href="https://github.com/abinthm">abinthm</a> with 💚</i>
 </div>
+
+---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Quote"/>
