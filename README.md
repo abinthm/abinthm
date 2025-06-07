@@ -172,7 +172,3 @@ HTML        8 mins              ░░░░░░░░░░░░░░░░
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Quote"/>
-</div>
