@@ -15,16 +15,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Science+%26+AI/ML+Engineer" alt="Typing SVG" />
 </div>
 
-🚀 About Me
-Hi there! I'm Abin Thomas, a passionate Computer Science & AI Engineering student based in Kerala, India.
+# 🚀 About Me
+
+Hi there! I'm **Abin Thomas**, a passionate **Computer Science & AI Engineering** student based in **Kerala, India**.
+
 I'm deeply fascinated by the intersection of artificial intelligence and practical applications, with a particular focus on:
 
-🔍 Diagram Processing
-🤖 RAG (Retrieval-Augmented Generation) Systems
-🧠 Machine Learning & AI/ML
+- 🔍 **Diagram Processing**  
+- 🤖 **RAG (Retrieval-Augmented Generation) Systems**  
+- 🧠 **Machine Learning & AI/ML**
 
-My journey in tech revolves around exploring cutting-edge technologies in computer vision, natural language processing, and document AI. I love building intelligent systems that can understand and process complex visual and textual information.
-Thanks for dropping by! Let's build something amazing together! 🚀
+My journey in tech revolves around exploring cutting-edge technologies in computer vision, natural language processing, and document AI.  
+I love building intelligent systems that can understand and process complex visual and textual information.
+
+Thanks for dropping by!  
+Let's build something amazing together! 🚀
+
 
 ## 🛠️ Tech Stack & Tools
 
