@@ -15,9 +15,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Science+%26+AI/ML+Engineer" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abinthm&label=Profile%20Views&color=00d4aa&style=for-the-badge" alt="Profile Views" />
-</div>
 
 ## 🚀 About Me
 
