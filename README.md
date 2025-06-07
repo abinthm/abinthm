@@ -116,8 +116,6 @@ me.say_hi()
 
 ## 📊 Weekly Development Breakdown
 
-<img align='right' width="400" src="https://github-readme-stats.vercel.app/api?username=abinthm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff">
-
 **📈 This week I spent my time on:**
 
 <!--START_SECTION:waka-->
