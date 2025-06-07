@@ -16,7 +16,13 @@
 </div>
 
 🚀 About Me
-Hi there! I'm Abin Thomas, a passionate Computer Science & AI Engineering student based in Kerala, India. I'm deeply fascinated by the intersection of artificial intelligence and practical applications, with a particular focus on diagram processing, RAG (Retrieval-Augmented Generation) systems, and machine learning.
+Hi there! I'm Abin Thomas, a passionate Computer Science & AI Engineering student based in Kerala, India.
+I'm deeply fascinated by the intersection of artificial intelligence and practical applications, with a particular focus on:
+
+🔍 Diagram Processing
+🤖 RAG (Retrieval-Augmented Generation) Systems
+🧠 Machine Learning & AI/ML
+
 My journey in tech revolves around exploring cutting-edge technologies in computer vision, natural language processing, and document AI. I love building intelligent systems that can understand and process complex visual and textual information.
 Thanks for dropping by! Let's build something amazing together! 🚀
 
