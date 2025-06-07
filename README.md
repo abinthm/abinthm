@@ -56,63 +56,7 @@ me.say_hi()
 
 </div>
 
-## 🎯 Featured Projects
 
-<div align="center">
-
-### 🔍 Diagram Processing Pipeline
-<table>
-<tr>
-<td width="50%">
-
-**[Diagram Extractor Model](https://github.com/abinthm/Diagram-extractor-model)**
-- 🤖 AI-powered diagram extraction from documents
-- 🧠 Computer vision meets document processing
-- 🔧 Built with Python and cutting-edge ML libraries
-
-</td>
-<td width="50%">
-
-**[Diagram RAG System](https://github.com/abinthm/Diagram-RAG)**
-- 💬 Intelligent Q&A system for diagrams
-- 🔗 Combines retrieval and generation techniques
-- ⚡ Advanced document understanding
-
-</td>
-</tr>
-</table>
-
-### 🌟 Illustra Ecosystem
-<table>
-<tr>
-<td width="33%">
-
-**[Illustra Frontend](https://github.com/abinthm/Illustra)**
-- 🎨 Modern TypeScript interface
-- 📱 Responsive and intuitive design
-- ⚡ Fast and efficient user experience
-
-</td>
-<td width="33%">
-
-**[Illustra Backend](https://github.com/abinthm/illustra-backend)**
-- 🐍 Robust Python backend
-- 🔒 Secure API endpoints
-- 📊 Efficient data processing
-
-</td>
-<td width="33%">
-
-**[Illustra Bot](https://github.com/abinthm/illustrabot-Diagram-RAG-Chatbot)**
-- 🤖 Intelligent diagram chatbot
-- 💡 RAG-powered conversations
-- 🚀 TypeScript-based implementation
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ## 📊 Weekly Development Breakdown
 
@@ -120,10 +64,10 @@ me.say_hi()
 
 <!--START_SECTION:waka-->
 ```text
-Python      8 hrs 45 mins      ████████████░░░░░░░░░░░░░   45.20 % 
-TypeScript  4 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-JavaScript  2 hrs 30 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Jupyter     1 hr 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Python      8 hrs 45 mins       ████████████░░░░░░░░░░░░░   45.20 % 
+TypeScript  4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+JavaScript  2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Jupyter     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 YAML        45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 Markdown    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 Docker      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
